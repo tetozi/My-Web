@@ -1,6 +1,5 @@
 // Input control
 const userName = document.getElementById('userName');
-const lastName = document.getElementById('lastName');
 const password = document.getElementById('password');
 const confirmPassword = document.getElementById('confirmPassword');
 const email = document.getElementById('email');
